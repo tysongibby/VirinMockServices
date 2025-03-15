@@ -24,4 +24,4 @@ References:
 
 #### Use & Characteristics
 - The VIRIN generator creates VIRINS for testing in a development environment only. This generator does not create VIRINs that are valid or usable in production.
-- To use it simply build it, run it, and enter the number of VIRINs you need created into the console.
+- To use the tool: build it, run it, and enter the number of VIRINs you need created into the console. It will the number of VIRINs entered into the console.
