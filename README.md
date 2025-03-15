@@ -1,4 +1,4 @@
-# Virin Mock Services
+# VIRIN Mock Services
 
 ## FOR DEVELOPMENT AND TESTING PURPOSES ONLY
 
