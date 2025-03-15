@@ -5,7 +5,7 @@
 ## If you have the opportunity please fork, change, update, and add to this project as you desire
 
 
-### Virin Generator
+### VIRIN Generator
 
 - Generates mock VIRIN (Visual Information Record Identification Number) strings based on the NITFS (National Imagery Transmission Format Standard). 
 
